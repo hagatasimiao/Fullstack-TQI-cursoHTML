@@ -303,6 +303,8 @@ a:hover {
 
 /* RESPONSIVO */
 
+/*320*/
+
 @media (max-width: 800px) {
     .social-media {
         display: flex;
